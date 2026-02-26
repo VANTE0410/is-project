@@ -1,6 +1,6 @@
 # IS Project
 
-## 📊 Datasets Used
+## 📊 Datasets
 
 ### 1️⃣ IMDB Movie Review Dataset
 Source: [https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews  ](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
