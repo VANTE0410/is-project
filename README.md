@@ -16,9 +16,12 @@ Features:
 - review_content
 - review_type (Fresh/Rotten)
 
-Note: Dataset files are large and can be downloaded from the links above.
-      The deployed web model was trained using the IMDB Movie Review Dataset.  
-      The Rotten Tomatoes dataset was utilized for additional experimentation, preprocessing practice, and comparative analysis during the development phase.
+Note: 
+- Dataset files are large and can be downloaded from the links above.
+
+- The deployed web model was trained using the IMDB Movie Review Dataset.  
+
+- The Rotten Tomatoes dataset was utilized for additional experimentation, preprocessing practice, and comparative analysis during the development phase.
 
 ---
 
