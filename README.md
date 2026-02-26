@@ -1,14 +1,5 @@
 # IS Project
 
-## 📌 Project Overview
-This project develops two models for movie review sentiment classification:
-- Machine Learning Model
-- Neural Network Model
-
-The models are deployed using Streamlit.
-
----
-
 ## 📊 Datasets Used
 
 ### 1️⃣ IMDB Movie Review Dataset
