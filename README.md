@@ -16,7 +16,8 @@ Features:
 - review_content
 - review_type (Fresh/Rotten)
 
-Note: 
+
+## Note: 
 - Dataset files are large and can be downloaded from the links above.
 
 - The deployed web model was trained using the IMDB Movie Review Dataset.  
